@@ -1,0 +1,24 @@
+{
+  "details": [
+    {
+      "id": 1,
+      "name": "Play Game ",
+      "checked": false
+    },
+    {
+      "id": 2,
+      "name": "Study React",
+      "checked": false
+    },
+    {
+      "id": 3,
+      "name": "Read books",
+      "checked": false
+    },
+    {
+      "id": 4,
+      "name": "Cook lunch",
+      "checked": false
+    }
+  ]
+}
